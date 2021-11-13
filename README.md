@@ -20,7 +20,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> Css |
 
 ## > Top Repositories
-<a href="https://github.com/PintoGamer64/Ookami-Bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PintoGamer64&repo=Ookami-Bot&theme=buefy"  height="150px"/></a>
+<a href="https://github.com/PintoGamer64/Ookami-Bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PintoGamer64&repo=Ookami-Bot&theme=buefy"  height="135px"/></a>
 <a href="https://github.com/PintoGamer64/NewSpace-Pagina"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PintoGamer64&repo=NewSpace-Pagina&theme=buefy" /></a>
 
 <a href="https://matepedia.000webhostapp.com/HTML's/index.html" target="_blank"><img align="center" src="https://matepedia.000webhostapp.com/Imagenes/NewSpace%20NewNew!!!!.png"></a>
