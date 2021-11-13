@@ -26,7 +26,7 @@ You can contact me through the following methods.
 * Mail: sebascardozo16@outlook.com === Secundary.
 * Discord: PintoGamer64#1216 === tertiary.
 
-| <a><img align="center" height="300px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"><a> | <a href="https://avatars.githubusercontent.com/u/84690368?v=4"><img align="center" src="https://avatars.githubusercontent.com/u/84690368?v=4" alt="PintoGamer64 github Photo" width="300px" height="300px"/><a> | <a><img align="center" height="300px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><a> |
+| <a><img align="center" height="280px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"><a> | <a href="https://avatars.githubusercontent.com/u/84690368?v=4"><img align="center" src="https://avatars.githubusercontent.com/u/84690368?v=4" alt="PintoGamer64 github Photo" width="280px" height="280px"/><a> | <a><img align="center" height="280px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><a> |
 | ----- | ----- | ----- |
 <!--
 **PintoGamer64/PintoGamer64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
