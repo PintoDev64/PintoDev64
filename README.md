@@ -6,7 +6,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 * Web Pages Development.
 * I work on a personal project, bots for Discord.
 
-| <a href="https://github.com/PintoGamer64/PintoGamer64"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="PintoGamer64 github stats" /></a> | <a href="https://github.com/PintoGamer64/PintoGamer64"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PintoGamer64&layout=compact&theme=buefy&hide_border=true" height="195px"/></a> |
+|  |
 | ----- | ----- |
 
 ## > Skill
