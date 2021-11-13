@@ -1,4 +1,4 @@
-# > Hi there
+# > <code><img src="https://cdn.discordapp.com/emojis/905827157782200320.png?size=80" height="30px"></code> Hi there
 Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, and I am a beginner programmer, who supports open source.
 * I am from Colombia, Bogota.
 * Web Pages Development.
