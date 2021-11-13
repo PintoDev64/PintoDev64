@@ -8,10 +8,11 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 | ----- | ----- |
 
 ## > Skill
-* Uso de JavaScript === Basico a Intermedio. [🟡 - 🟠]
-* Creacion de paginas web === Intermedio. [🟡]
-* Uso de la API de Discord === Intermedio. [🟡]
-* Uso de Git Bash === Basico. [🟠]
+* JavaScript === Basico a Intermedio. [🟡 - 🟠]
+* WebSites === Intermedio. [🟡]
+* la Discord API === Intermedio. [🟡]
+* Git Bash === Basico. [🟠]
+* Java & NetBeans === Basico. [🟠]
 
 > Languages <p></p> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript | ----- 
 | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> Java | ----- 
