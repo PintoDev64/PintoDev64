@@ -1,4 +1,4 @@
-<code><img src="https://c.tenor.com/alDAqanjr0wAAAAC/anime.gif"></code>
+<code><img src="https://64.media.tumblr.com/5d6be52d6eb72863bbb1a91fb7f8e989/11749dc0b4dc4d0f-16/s540x810/d501c4bc24f0b2987dad7bea7b5fdf80485e5b03.gif"></code>
 
 # > <code><img src="https://cdn.discordapp.com/emojis/905827157782200320.png?size=80" height="30px"></code> Hi there
 Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, and I am a beginner programmer, who supports open source.
