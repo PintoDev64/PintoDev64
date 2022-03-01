@@ -10,9 +10,9 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 | ----- | ----- |
 
 ## > Skill
-* JavaScript === Basico a Intermedio. [🟡 - 🟠]
+* JavaScript === Intermedio. [🟡]
 * WebSites === Intermedio. [🟡]
-* la Discord API === Intermedio. [🟡]
+* Discord API === Intermedio. [🟡]
 * Git Bash === Basico. [🟠]
 * Java & NetBeans === Basico. [🟠]
 
@@ -30,7 +30,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 ## > Contact
 You can contact me through the following methods.
 
-* Whatssap: +57 322 4004147 === Main.
+* Whatssap: +57 320 9172705 === Main.
 * Mail: sebascardozo16@outlook.com === Secundary.
 * Discord: PintoGamer64#1216 === tertiary.
 
