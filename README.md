@@ -1,4 +1,4 @@
-<code><img src="https://media-exp1.licdn.com/dms/image/C4E22AQGxnjUvuZSWJQ/feedshare-shrink_2048_1536/0/1628187313485?e=1648684800&v=beta&t=0XeofEQVTOGB-ohzZWN2Z2wvA14V1xWpk8c7O0QSTXs"></code>
+
 
 # > <code><img src="https://cdn.discordapp.com/emojis/905827157782200320.png?size=80" height="30px"></code> Hi there
 Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, and I am a beginner programmer, who supports open source.
@@ -17,7 +17,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 * Java & NetBeans === Basico. [🟠]
 
 > Languages <p></p> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript | ----- 
-| <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> Java | ----- 
+| <code><img height="20" src="https://media-exp1.licdn.com/dms/image/C4E22AQGxnjUvuZSWJQ/feedshare-shrink_2048_1536/0/1628187313485?e=1648684800&v=beta&t=0XeofEQVTOGB-ohzZWN2Z2wvA14V1xWpk8c7O0QSTXs"></code> Java | ----- 
 | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> Html | ----- 
 | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> Css |
 
