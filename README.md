@@ -17,7 +17,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 * Java & NetBeans === Basico. [🟠]
 
 > Languages <p></p> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript | ----- 
-| <code><img height="20" src="https://media-exp1.licdn.com/dms/image/C4E22AQGxnjUvuZSWJQ/feedshare-shrink_2048_1536/0/1628187313485?e=1648684800&v=beta&t=0XeofEQVTOGB-ohzZWN2Z2wvA14V1xWpk8c7O0QSTXs"></code> Java | ----- 
+| <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> Java | ----- 
 | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> Html | ----- 
 | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> Css |
 
@@ -34,7 +34,7 @@ You can contact me through the following methods.
 * Mail: sebascardozo16@outlook.com === Secundary.
 * Discord: PintoGamer64#1216 === tertiary.
 
-| <a><img align="center" height="250px" width="250px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"><a> | <a href="https://www.pinterest.es/Pinto_Gamer64/_saved/" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/84690368?v=4" alt="PintoGamer64 github Photo" width="250px" height="250px"/><a> | <a><img align="center" height="250px" width="250px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><a> |
+| <a><img height="250px" src="https://media-exp1.licdn.com/dms/image/C4E22AQGxnjUvuZSWJQ/feedshare-shrink_2048_1536/0/1628187313485?e=1648684800&v=beta&t=0XeofEQVTOGB-ohzZWN2Z2wvA14V1xWpk8c7O0QSTXs"></code><a> | <a href="https://www.pinterest.es/Pinto_Gamer64/_saved/" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/84690368?v=4" alt="PintoGamer64 github Photo" width="250px" height="250px"/><a> | <a><img align="center" height="250px" width="250px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><a> |
 | ----- | ----- | ----- |
 <!--
 **PintoGamer64/PintoGamer64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
