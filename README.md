@@ -40,7 +40,7 @@ You can contact me through the following methods.
 * Mail: sebascardozo16@outlook.com === Secundary.
 * Discord: PintoGamer64#1216 === tertiary.
 
-# > Provided by <code> [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code>  &  <code> [Spotify Github Profile](https://github.com/kittinan/spotify-github-profile) </code>
+## > Provided by <code> [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code>  &  <code> [Spotify Github Profile](https://github.com/kittinan/spotify-github-profile) </code>
 
 <!--
 **PintoGamer64/PintoGamer64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
