@@ -6,7 +6,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 * I work on a personal project, bots for Discord.
 * I studying at SENA
 
-| <a href="https://github.com/PintoGamer64/PintoGamer64"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=dark&bg_color=00000000&hide_border=true" alt="PintoGamer64 github stats" /></a> | <a href="https://github.com/PintoGamer64/PintoGamer64"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PintoGamer64&layout=compact&theme=dark&bg_color=00000000&hide_border=true" height="195px"/></a> |
+| <a href="https://github.com/PintoGamer64/PintoGamer64"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=radical&bg_color=00000000&hide_border=true" alt="PintoGamer64 github stats" /></a> | <a href="https://github.com/PintoGamer64/PintoGamer64"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PintoGamer64&layout=compact&theme=radical&bg_color=00000000&hide_border=true" height="195px"/></a> |
 | ----- | ----- |
 
 
