@@ -1,5 +1,5 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
-#  <code><img src="https://avatars.githubusercontent.com/u/84690368?v=4" height="80px">&nbsp;Hi there |--------------| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  </code>
+#  <code>⠀<img src="https://avatars.githubusercontent.com/u/84690368?v=4" height="80px">&nbsp;Hi there |⠀⠀⠀⠀⠀⠀⠀⠀⠀| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  </code>
 Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, and I am a beginner programmer, who supports open source.
 * I am from Colombia, Bogota.
 * Web Pages Development.
@@ -14,7 +14,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 | ----- | ----- |
   
 
-## > <code>Skill</code>
+## > <code>⠀⠀⠀Skill</code>
 * JavaScript === Intermedio. [🟡]
 * WebSites === Intermedio. [🟡]
 * Discord API === Intermedio. [🟡]
@@ -27,22 +27,18 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> Html | ----- 
 | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> Css |
 
-## > <code> Top Repositories </code>
+## > <code>⠀⠀⠀Top Repositories </code>
 <a href="https://github.com/PintoGamer64/Ookami-Source-Code"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PintoGamer64&repo=Ookami-Source-Code&theme=dark"  height="125px"/></a>
 <a href="https://github.com/PintoGamer64/Sofiaplus-Remake"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PintoGamer64&repo=Sofiaplus-Remake&theme=dark" height="125px"/></a>
 
 <!--<code> <a href="https://matepedia.000webhostapp.com/HTML's/index.html" target="_blank"><img height="335px" align="center" src="https://matepedia.000webhostapp.com/Imagenes/NewSpace%20NewNew!!!!.png"></a> </code>-->
 
-## > <code> Contact </code>
+## > <code>⠀⠀⠀Contact </code>
 You can contact me through the following methods.
 
 * Whatssap: +57 320 9172705 === Main.
 * Mail: sebascardozo16@outlook.com === Secundary.
 * Discord: PintoGamer64#1216 === tertiary.
-
-
-## > <code> <a href="https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb" target="_blank">Spotify Recent Activity</a> </code>
-<code>  </code>
 
 # > Provided by <code> [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code>  &  <code> [Spotify Github Profile](https://github.com/kittinan/spotify-github-profile) </code>
 
