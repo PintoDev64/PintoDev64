@@ -10,7 +10,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 | ----- | ----- |
 
 
-| <a href="https://www.pinterest.es/Pinto_Gamer64/_saved/" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/84690368?v=4" alt="PintoGamer64 github Photo" height="215px"/><a> | <a href="https://wakatime.com/@PintoGamer64" target="_blank"> <img height="210px" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=PintoGamer64&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats"></a> |
+| <a href="https://www.pinterest.es/Pinto_Gamer64/_saved/" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/84690368?v=4" alt="PintoGamer64 github Photo" height="195px"/><a> | <a href="https://wakatime.com/@PintoGamer64" target="_blank"> <img height="195px" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=PintoGamer64&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats"></a> |
 | ----- | ----- |
 
 ## > <code>Skill</code>
