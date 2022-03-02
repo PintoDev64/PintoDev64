@@ -1,5 +1,5 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
-#  <code><img src="https://avatars.githubusercontent.com/u/84690368?v=4" height="80px">&nbsp;Hi there |----------------| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  </code>
+#  <code><img src="https://avatars.githubusercontent.com/u/84690368?v=4" height="80px">&nbsp;Hi there |--------------| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  </code>
 Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, and I am a beginner programmer, who supports open source.
 * I am from Colombia, Bogota.
 * Web Pages Development.
