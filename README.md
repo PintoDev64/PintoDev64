@@ -37,9 +37,9 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 ## > <code>⠀⠀⠀Contact </code>
 You can contact me through the following methods.
 
-* Whatssap: +57 320 9172705 === Main.
-* Mail: sebascardozo16@outlook.com === Secundary.
-* Discord: PintoGamer64#1216 === tertiary.
+* [Mail 1](cardozojoan13@gmail.com) ⠀=== Main.
+* [Mail 2](sebascardozo16@outlook.com) ⠀=== Secundary.
+* [Discord](https://discord.com/users/655455259216576551) === tertiary.
 
 ## > Provided by <code> [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code>  &  <code> [Spotify Github Profile](https://github.com/kittinan/spotify-github-profile) </code>
 
