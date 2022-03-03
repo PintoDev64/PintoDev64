@@ -10,23 +10,24 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 | ----- | ----- |
 
 
-| <a href="https://discord.com/users/655455259216576551" target="_blank"><img align="center" src="https://pa1.narvii.com/7928/d1bd6fe4035cddd0d55f4ba38a60fa2275f2df87r1-500-421_hq.gif" alt="PintoGamer64 github Photo" height="195px"/><a> | <a href="https://wakatime.com/@PintoGamer64" target="_blank"> <img height="195px" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=PintoGamer64&border_radius=5px&theme=dark&bg_color=00000000&border_color=1f1f1f&icon_color=58a6ff&hide_border=true&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats"></a> |
+| <a href="https://discord.com/users/655455259216576551" target="_blank"><img align="center" src="https://pa1.narvii.com/7928/d1bd6fe4035cddd0d55f4ba38a60fa2275f2df87r1-500-421_hq.gif" alt="PintoGamer64 github Photo" height="195px"/><a> | <a href="https://wakatime.com/@PintoGamer64" target="_blank"> <img height="195px" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=pintogamer64&border_radius=5px&theme=dark&bg_color=00000000&border_color=1f1f1f&icon_color=58a6ff&hide_border=true&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats"></a> |
 | ----- | ----- |
   
 
-## > <code>⠀⠀⠀Skill</code>
+## > <code>⠀⠀⠀Skills</code>
+  
+> Languages ⠀⠀⠀⠀⠀⠀
+| <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript | ----- 
+| <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> Java | ----- 
+| <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> Html | ----- 
+| <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> Css | -----
+| <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> C++ | <p></p>
 * JavaScript === Intermedio. [🟡]
 * WebSites === Intermedio. [🟡]
 * Discord API === Intermedio. [🟡]
 * Git Bash === Basico. [🟠]
 * Java & NetBeans === Basico. [🟠]
 * C++ | C plus plus === Basico. [🟠]
-
-> Languages <p></p> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript | ----- 
-| <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> Java | ----- 
-| <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> Html | ----- 
-| <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> Css | -----
-| <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> C++ |
 
 ## > <code>⠀⠀⠀Top Repositories </code>
 <a href="https://github.com/PintoGamer64/Ookami-Source-Code"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PintoGamer64&repo=Ookami-Source-Code&theme=dark"  height="125px"/></a>
