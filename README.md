@@ -1,5 +1,5 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
-#  <code>⠀<img src="https://avatars.githubusercontent.com/u/84690368?v=4" height="80px">&nbsp;Hi there |⠀⠀⠀⠀⠀-⠀⠀⠀⠀⠀| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)⠀</code>
+#  <code>⠀<a href="https://discord.com/users/655455259216576551" target="_blank"> <img src="https://pa1.narvii.com/7928/d1bd6fe4035cddd0d55f4ba38a60fa2275f2df87r1-500-421_hq.gif" height="80px"></a>&nbsp;Hi there |⠀⠀⠀⠀⠀-⠀⠀⠀⠀⠀| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)⠀</code>
 Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, and I am a beginner programmer, who supports open source.
 * I am from Colombia, Bogota.
 * Web Pages Development.
@@ -10,7 +10,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 | ----- | ----- |
 
 
-| <a href="https://discord.com/users/655455259216576551" target="_blank"><img align="center" src="https://pa1.narvii.com/7928/d1bd6fe4035cddd0d55f4ba38a60fa2275f2df87r1-500-421_hq.gif" alt="PintoGamer64 github Photo" height="195px"/><a> | <a href="https://wakatime.com/@PintoGamer64" target="_blank"> <img height="195px" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=pintogamer64&border_radius=5px&theme=dark&bg_color=00000000&border_color=1f1f1f&icon_color=58a6ff&hide_border=true&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats"></a> |
+| <img align="center" src="https://blog.sagipl.com/wp-content/uploads/2017/05/bug-or-error.gif" alt="PintoGamer64 github Photo" height="195px"/> | <a href="https://wakatime.com/@PintoGamer64" target="_blank"> <img height="195px" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=pintogamer64&border_radius=5px&theme=dark&bg_color=00000000&border_color=1f1f1f&icon_color=58a6ff&hide_border=true&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats"></a> |
 | ----- | ----- |
   
 
