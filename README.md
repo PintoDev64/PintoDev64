@@ -42,7 +42,7 @@ You can contact me through the following methods.
 * [Mail 2](sebascardozo16@outlook.com) ⠀=== Secundary.
 * [Discord](https://discord.com/users/655455259216576551) === tertiary.
 
-## > Provided by <code> <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> [GitHub Readme Stats]() </a> </code>  &  <code> <a href="https://github.com/kittinan/spotify-github-profile" target="_blank"> [Spotify Github Profile]() </a> </code>
+## > Provided by <code> [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) </code>  &  <code> [Spotify Github Profile](https://github.com/kittinan/spotify-github-profile) </code>
 
 <!--
 **PintoGamer64/PintoGamer64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
