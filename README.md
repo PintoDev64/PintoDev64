@@ -9,10 +9,6 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 
 | <a href="https://github.com/PintoGamer64/PintoGamer64"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=radical&bg_color=00000000&hide_border=true" alt="PintoGamer64 github stats" /></a> | <a href="https://github.com/PintoGamer64/PintoGamer64"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PintoGamer64&layout=compact&theme=radical&bg_color=00000000&hide_border=true" height="195px"/></a> |
 | ----- | ----- |
-
-
-| <img align="center" src="https://blog.sagipl.com/wp-content/uploads/2017/05/bug-or-error.gif" alt="PintoGamer64 github Photo" height="195px"/> | <a href="https://wakatime.com/@PintoGamer64" target="_blank"> <img height="195px" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=pintogamer64&border_radius=5px&theme=dark&bg_color=00000000&border_color=1f1f1f&icon_color=58a6ff&hide_border=true&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats"></a> |
-| ----- | ----- |
   
 
 ## > <code>⠀⠀💻⠀⠀Skills</code>
