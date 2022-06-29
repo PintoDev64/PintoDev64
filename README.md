@@ -28,7 +28,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 
 ## > <code>⠀⠀🌟⠀⠀Top Repositories </code>
 
-| <a href="https://github.com/PintoGamer64/Ookami-Source-Code"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PintoGamer64&repo=Ookami-Source-Code&theme=dark&hide_border=true&bg_color=00000000"  height="140px"/></a> | <a href="https://github.com/PintoGamer64/Sofia-Plus"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PintoGamer64&repo=Sofia-Plus&theme=dark&hide_border=true&bg_color=00000000" height="140px"/></a> |
+| <a href="https://github.com/PintoGamer64/Ookami-Source-Code"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PintoGamer64&repo=Ookami-Source-Code&theme=dark&hide_border=true&bg_color=00000000"  height="140px"/></a> | <a href="https://github.com/SENA-tech/SofiaPlus-Remake"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SENA-tech&repo=SofiaPlus-Remake&theme=dark&hide_border=true&bg_color=00000000" height="140px"/></a> |
 | ----- | ----- |
 
 <!--<code> <a href="https://matepedia.000webhostapp.com/HTML's/index.html" target="_blank"><img height="335px" align="center" src="https://matepedia.000webhostapp.com/Imagenes/NewSpace%20NewNew!!!!.png"></a> </code>-->
