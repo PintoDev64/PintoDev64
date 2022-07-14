@@ -7,7 +7,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 * I work on a personal project, bots for Discord.
 * I studying at SENA
 
-| <a href="https://github.com/PintoGamer64/PintoGamer64"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=highcontrast&bg_color=00000000&hide_border=true" height="245px" alt="PintoGamer64 github stats" /></a> | <a href="https://github.com/PintoGamer64/PintoGamer64"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PintoGamer64&theme=highcontrast&bg_color=00000000&hide_border=true" height="245px"/></a> |
+| <a href="https://github.com/PintoGamer64/PintoGamer64"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" height="245px" alt="PintoGamer64 github stats" /></a> | <a href="https://github.com/PintoGamer64/PintoGamer64"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PintoGamer64&theme=highcontrast&hide_border=true" height="245px"/></a> |
 | ----- | ----- |
   
 
@@ -28,7 +28,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 
 ## > <code>⠀⠀🌟⠀⠀Top Repositories </code>
 
-| <a href="https://github.com/PintoGamer64/Ookami-Source-Code"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PintoGamer64&show_owner=true&repo=Portfolio&theme=dark&hide_border=true&bg_color=00000000"  height="140px"/></a> | <a href="https://github.com/SENA-tech/SofiaPlus-Remake"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SENA-tech&show_owner=true&repo=SofiaPlus-Remake&theme=dark&hide_border=true&bg_color=00000000" height="140px"/></a> |
+| <a href="https://github.com/PintoGamer64/Ookami-Source-Code"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PintoGamer64&show_owner=true&repo=Portfolio&theme=dark&hide_border=true"  height="140px"/></a> | <a href="https://github.com/SENA-tech/SofiaPlus-Remake"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SENA-tech&show_owner=true&repo=SofiaPlus-Remake&theme=dark&hide_border=true0" height="140px"/></a> |
 | ----- | ----- |
 
 <!--<code> <a href="https://matepedia.000webhostapp.com/HTML's/index.html" target="_blank"><img height="335px" align="center" src="https://matepedia.000webhostapp.com/Imagenes/NewSpace%20NewNew!!!!.png"></a> </code>-->
