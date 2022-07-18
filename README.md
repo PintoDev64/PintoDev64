@@ -21,7 +21,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 | ----- | ----- |
   
 
-# <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
+# > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
 
 ### languages / frameworks / tools in which I excel
 
@@ -35,14 +35,14 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-# <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
+# > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
 | <a href="https://github.com/PintoGamer64/Ookami-Source-Code"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PintoGamer64&show_owner=true&repo=Portfolio&theme=radical&hide_border=true"  height="140px"/></a> | <a href="https://github.com/SENA-tech/SofiaPlus-Remake"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SENA-tech&show_owner=true&repo=SofiaPlus-Remake&theme=radical&hide_border=true0" height="140px"/></a> |
 | ----- | ----- |
 
 <!--<code> <a href="https://matepedia.000webhostapp.com/HTML's/index.html" target="_blank"><img height="335px" align="center" src="https://matepedia.000webhostapp.com/Imagenes/NewSpace%20NewNew!!!!.png"></a> </code>-->
 
-# <code>⠀⠀📬⠀⠀Contact⠀⠀</code>
+# > <code>⠀⠀📬⠀⠀Contact⠀⠀</code>
 You can contact me through the following methods.
 
 * cardozojoan13@gmail.com ⠀=== Main.
