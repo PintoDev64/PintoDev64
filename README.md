@@ -21,7 +21,10 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 | ----- | ----- |
   
 
-## > <h1 align="center"><code>⠀⠀💻⠀⠀Skills⠀⠀💻⠀⠀</code></h1>
+# <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
+
+### languages / frameworks / tools in which I excel
+
 <p align="center">
   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="95" hight="45">
   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="95" hight="45">
@@ -32,14 +35,14 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-## > <h1 align="center"><code>⠀⠀🌟⠀⠀Top Repositories⠀⠀🌟⠀⠀</code> </h1>
+# <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
 | <a href="https://github.com/PintoGamer64/Ookami-Source-Code"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PintoGamer64&show_owner=true&repo=Portfolio&theme=radical&hide_border=true"  height="140px"/></a> | <a href="https://github.com/SENA-tech/SofiaPlus-Remake"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SENA-tech&show_owner=true&repo=SofiaPlus-Remake&theme=radical&hide_border=true0" height="140px"/></a> |
 | ----- | ----- |
 
 <!--<code> <a href="https://matepedia.000webhostapp.com/HTML's/index.html" target="_blank"><img height="335px" align="center" src="https://matepedia.000webhostapp.com/Imagenes/NewSpace%20NewNew!!!!.png"></a> </code>-->
 
-## > <h1 align="center"> <code>⠀⠀📬⠀⠀Contact⠀⠀📬⠀⠀</code> </h1>
+# <code>⠀⠀📬⠀⠀Contact⠀⠀</code>
 You can contact me through the following methods.
 
 * cardozojoan13@gmail.com ⠀=== Main.
