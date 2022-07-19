@@ -49,7 +49,9 @@ You can contact me through the following methods.
 * sebascardozo13@outlook.com⠀=== Secundary.
 * [Discord](https://discord.com/users/655455259216576551) === tertiary.
 
-## > Provided by <code> [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code>  &  <code> [Spotify Github Profile](https://github.com/kittinan/spotify-github-profile) </code>
+## > Provided by <code> [Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code>  &  <code> [Spotify Profile](https://github.com/kittinan/spotify-github-profile)</code> & <code> [Activity Gragh](https://github.com/Ashutosh00710/github-readme-activity-graph) </code>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PintoGamer64&theme=react-dark&hide_border=true)  
 
 <!--
 **PintoGamer64/PintoGamer64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
