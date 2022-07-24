@@ -13,7 +13,6 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 
 * I am from Colombia, Bogota.
 * Web Pages Development.
-* I work on a personal project, bots for Discord.
 * I studying at SENA
 
 <br>
