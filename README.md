@@ -24,8 +24,6 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 
 # > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
 
-### languages / frameworks / tools in which I excel
-
 <p align="center">
   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="95" hight="45">
   <img src="https://github.com/mayhemantt/mayhemantt/blob/master/svg/dev/services/aws.svg" alt="aws"  width="95" hight="45">
