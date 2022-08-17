@@ -3,7 +3,7 @@
 # <h1 align="center"> <code>⠀<a href="https://discord.com/users/655455259216576551" target="_blank"> <img src="https://i.pinimg.com/564x/5b/b3/bb/5bb3bb94c786ddd95052b3ffa6f337ca.jpg" height="80px"></a>⠀Hi there⠀|⠀⠀⠀👋⠀⠀⠀| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)⠀</code> </h1>
 
 <div align="center">
-<img height="170px" src='https://github-readme-stats.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=radical&hide_border=true' align="right">
+<img height="170px" src='https://github-readme-stats.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=radical' align="right">
 </div>
 
 <div align="left">
@@ -18,7 +18,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 <br>
 
 
-| ![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PintoGamer64&layout=compact&theme=radical&hide_border=true&langs_count=8) | ![Lenguajes Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pintogamer64&theme=radical&hide_border=true&layout=compact) |
+| ![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PintoGamer64&layout=compact&theme=radical&hide_border=true&langs_count=5) | ![Lenguajes Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pintogamer64&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
 | ----- | ----- |
   
 
