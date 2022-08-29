@@ -50,7 +50,7 @@ You can contact me through the following methods.
 * sebascardozo13@outlook.com⠀=== Secundary.
 * [Discord](https://discord.com/users/655455259216576551) === tertiary.
 
-# > <code>⠀⠀💼⠀⠀monthly activity⠀⠀</code>
+# > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PintoGamer64&theme=react-dark&hide_border=true)  
 
 ![RWBY Image Beach Wallpaper](https://user-images.githubusercontent.com/84690368/180107953-1166e03c-a5af-42ec-a767-f9cce4b41873.png)
