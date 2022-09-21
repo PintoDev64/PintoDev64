@@ -1,9 +1,9 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
 
-# <h1 align="center"> <code>⠀<a href="https://discord.com/users/655455259216576551" target="_blank"> <img src="https://cdn.discordapp.com/avatars/655455259216576551/b334ffc7219693262ceff60f7d7b64ee.webp?size=1024" height="80px"></a>⠀Hi there⠀|⠀⠀👋⠀⠀| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)⠀</code> </h1>
+# <h1 align="center"> <code>⠀<a href="https://discord.com/users/655455259216576551" target="_blank"> <img src="https://images-ext-1.discordapp.net/external/GZ_OCmh27TEEIuXydge09IU3UFWyZ27LuOSiGQC7qwU/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655455259216576551/662ef819a40232b360863759292dbda0.webp?width=601&height=601" height="80px"></a>⠀Hi there⠀|⠀⠀👋⠀⠀| [<img src="https://www.citypng.com/public/uploads/preview/-41601346950a0kcvtszk3.png" background="#fff" height="80px">](https://api.whatsapp.com/send/?phone=573209172705)⠀⠀</code> </h1>
 
 <div align="center">
-<img height="170px" src='https://github-readme-stats.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=radical' align="right">
+<img height="150px" src='https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false' align="right">
 </div>
 
 <div align="left">
@@ -18,12 +18,11 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 <br>
 
 
-| ![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PintoGamer64&layout=compact&theme=radical&hide_border=true&langs_count=5) | ![Lenguajes Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pintogamer64&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
+| ![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PintoGamer64&layout=compact&theme=radical&hide_border=true&langs_count=5) | ![Stats](https://github-readme-stats.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=radical&hide_border=true) |
 | ----- | ----- |
   
 
 # > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
-
 <p align="center">
   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="95" hight="45">
   <img src="https://github.com/mayhemantt/mayhemantt/blob/master/svg/dev/services/aws.svg" alt="aws"  width="95" hight="45">
@@ -34,6 +33,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pintogamer64&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true" width="85%">
 </p>
 
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
@@ -46,12 +46,13 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 # > <code>⠀⠀📬⠀⠀Contact⠀⠀</code>
 You can contact me through the following methods.
 
-* cardozojoan13@gmail.com ⠀=== Main.
-* sebascardozo13@outlook.com⠀=== Secundary.
-* [Discord](https://discord.com/users/655455259216576551) === tertiary.
+* cardozojoan13@gmail.com
+* sebascardozo13@outlook.com
+* [Discord](https://discord.com/users/655455259216576551)
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PintoGamer64&theme=react-dark&hide_border=true)  
+
 
 ![RWBY Image Beach Wallpaper](https://user-images.githubusercontent.com/84690368/180107953-1166e03c-a5af-42ec-a767-f9cce4b41873.png)
 
