@@ -1,9 +1,9 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
 
-# <h1 align="center"> <code>⠀<a href="https://discord.com/users/655455259216576551" target="_blank"> <img src="https://images-ext-1.discordapp.net/external/GZ_OCmh27TEEIuXydge09IU3UFWyZ27LuOSiGQC7qwU/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655455259216576551/662ef819a40232b360863759292dbda0.webp?width=601&height=601" height="80px"></a>⠀Hi there⠀|⠀⠀👋⠀⠀| [<img src="https://www.citypng.com/public/uploads/preview/-41601346950a0kcvtszk3.png" background="#fff" height="80px">](https://api.whatsapp.com/send/?phone=573209172705)⠀⠀</code> </h1>
+# <h1 align="center"> <code>⠀⠀[<img src="https://pbs.twimg.com/media/Dsw0HsjWwAA-8fE.jpg" height="110px">](https://www.facebook.com/joansebastian.cardozosalinas.925/)⠀Hi there⠀|⠀⠀👋⠀⠀| [<img src="https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=falsespo" background="#fff" height="110px">](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)⠀⠀</code> </h1>
 
 <div align="center">
-<img height="150px" src='https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false' align="right">
+<img height="165px" src='https://github-readme-stats.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=radical&hide_border=true' align="right">
 </div>
 
 <div align="left">
@@ -18,7 +18,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 <br>
 
 
-| ![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PintoGamer64&layout=compact&theme=radical&hide_border=true&langs_count=5) | ![Stats](https://github-readme-stats.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=radical&hide_border=true) |
+| ![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PintoGamer64&layout=compact&theme=radical&hide_border=true&langs_count=5) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pintogamer64&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
 | ----- | ----- |
   
 
@@ -33,7 +33,6 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pintogamer64&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true" width="85%">
 </p>
 
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
