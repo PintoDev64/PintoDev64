@@ -9,6 +9,8 @@
 <div align="left">
 Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, and I'm a junior programmer who supports open source.
 </div>
+
+[Contacto - Outlook](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCGCfqgXnDJNRSRDrmfpCRTkXLVtgNGbtFwgCVxQBChHRJXPWrzkNzqRNtmcHDfzFjVTvq)
 <br>
 
 * I am from Colombia, Bogota.
@@ -41,13 +43,6 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 | ----- | ----- |
 
 <!--<code> <a href="https://matepedia.000webhostapp.com/HTML's/index.html" target="_blank"><img height="335px" align="center" src="https://matepedia.000webhostapp.com/Imagenes/NewSpace%20NewNew!!!!.png"></a> </code>-->
-
-# > <code>⠀⠀📬⠀⠀Contact⠀⠀</code>
-You can contact me through the following methods.
-
-* cardozojoan13@gmail.com
-* sebascardozo13@outlook.com
-* [Discord](https://discord.com/users/655455259216576551)
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PintoGamer64&theme=react-dark&hide_border=true)  
