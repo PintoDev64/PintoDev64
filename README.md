@@ -45,7 +45,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 <!--<code> <a href="https://matepedia.000webhostapp.com/HTML's/index.html" target="_blank"><img height="335px" align="center" src="https://matepedia.000webhostapp.com/Imagenes/NewSpace%20NewNew!!!!.png"></a> </code>-->
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PintoGamer64&theme=react-dark&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PintoGamer64&theme=high-contrast)](https://github.com/PintoGamer64)
 
 ![RWBY Image Beach Wallpaper](https://user-images.githubusercontent.com/84690368/180107953-1166e03c-a5af-42ec-a767-f9cce4b41873.png)
 
