@@ -46,6 +46,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PintoGamer64&theme=high-contrast)](https://github.com/PintoGamer64)
+[<img width="1200px" src="https://user-images.githubusercontent.com/84690368/212423531-3e1192ee-4b16-41db-959c-bdc06669aab2.png">](https://github-contributions.vercel.app/)
 
 ![RWBY Image Beach Wallpaper](https://user-images.githubusercontent.com/84690368/180107953-1166e03c-a5af-42ec-a767-f9cce4b41873.png)
 
