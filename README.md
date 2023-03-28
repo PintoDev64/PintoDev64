@@ -21,28 +21,17 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
   
 
 # > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
-<p align="center">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="95" hight="45">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="PC user"  width="95" hight="45">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="95" hight="45">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
+| JavaScript | Css | Html | ReactJs | ExpressJs | MySQL | NodeJs | ElectronJs | Git | Npm |
+|--|--|--|--|--|--|--|--|--|--|
 
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
 | ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=PintoGamer64&show_owner=true&repo=OokamiBot&theme=radical&hide_border=true) | ![SofiaPlus](https://github-readme-stats.vercel.app/api/pin/?username=SENA-tech&show_owner=true&repo=SofiaPlus&theme=radical&hide_border=true) |
 | ----- | ----- |
 
-<!--<code> <a href="https://matepedia.000webhostapp.com/HTML's/index.html" target="_blank"><img height="335px" align="center" src="https://matepedia.000webhostapp.com/Imagenes/NewSpace%20NewNew!!!!.png"></a> </code>-->
-
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PintoGamer64&theme=high-contrast)](https://github.com/PintoGamer64)
-[<img width="1200px" src="https://user-images.githubusercontent.com/84690368/212423531-3e1192ee-4b16-41db-959c-bdc06669aab2.png">](https://github-contributions.vercel.app/)
 
-![RWBY Image Beach Wallpaper](https://user-images.githubusercontent.com/84690368/180107953-1166e03c-a5af-42ec-a767-f9cce4b41873.png)
+![9743feb5586668c08c789e01fa9139e7](https://user-images.githubusercontent.com/84690368/228364301-084b9598-ab9f-4db3-a3bb-aa9f2ccfafd7.png)
 
 ## > Provided by <code>[Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code>  &  <code>[Spotify Profile](https://github.com/kittinan/spotify-github-profile)</code> & <code>[Activity Gragh](https://github.com/Ashutosh00710/github-readme-activity-graph)</code>
