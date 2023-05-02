@@ -16,7 +16,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 <br>
 
 
-| ![Stats](readme-stats-fork-3vkfjewad-pintogamer64.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=radical&hide_border=true) | ![Stats](readme-stats-fork-3vkfjewad-pintogamer64.vercel.app/api/wakatime?username=pintogamer64&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
+| ![Stats](https://readme-stats-fork.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=radical&hide_border=true) | ![Stats](https://readme-stats-fork.vercel.app/api/wakatime?username=pintogamer64&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
 | ----- | ----- |
   
 
@@ -26,7 +26,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
-| ![Ookami](readme-stats-fork-3vkfjewad-pintogamer64.vercel.app/api/pin/?username=PintoGamer64&show_owner=true&repo=OokamiBot&theme=radical&hide_border=true) | ![SofiaPlus](readme-stats-fork-3vkfjewad-pintogamer64.vercel.app/api/pin/?username=SENA-tech&show_owner=true&repo=SofiaPlus&theme=radical&hide_border=true) |
+| ![Ookami](https://readme-stats-fork.vercel.app/api/pin/?username=PintoGamer64&show_owner=true&repo=OokamiBot&theme=radical&hide_border=true) | ![SofiaPlus](https://readme-stats-fork.vercel.app/api/pin/?username=SENA-tech&show_owner=true&repo=SofiaPlus&theme=radical&hide_border=true) |
 | ----- | ----- |
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
