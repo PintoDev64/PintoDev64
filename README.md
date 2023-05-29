@@ -30,7 +30,7 @@ Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, an
 | ----- | ----- |
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PintoGamer64&theme=high-contrast)](https://github.com/PintoGamer64)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PintoGamer64&theme=high-contrast)](https://github.com/PintoGamer64)
 
 ![9743feb5586668c08c789e01fa9139e7](https://user-images.githubusercontent.com/84690368/228364301-084b9598-ab9f-4db3-a3bb-aa9f2ccfafd7.png)
 
