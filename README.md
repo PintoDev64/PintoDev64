@@ -3,7 +3,7 @@
 # <h1 align="center"> <code>[<img src="https://pbs.twimg.com/media/Dsw0HsjWwAA-8fE.jpg" height="110px">](https://portfolio-web-rho-ten.vercel.app/home)⠀Hi there⠀|⠀⠀👋⠀⠀| [<img src="https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=falsespo" background="#fff" height="110px">](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)</code> </h1>
 
 <div align="left">
-Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer64 for friends, and I'm a junior programmer who supports open source.
+Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer for friends, and I'm a junior programmer who supports open source.
 </div>
 
 [Contact](mailto:cardozojoan13@gmail.com?subject=Portfolio%20%7C%20Contact%20Page&body=%2F%2FEspa%C3%B1ol%0AHola%2C%20te%20escribo%20desde%20el%20link%20de%20correo%20de%20tu%20portfolio.%20I%20am%20.....%0A%0A%2F%2FIngles%0AHello%2C%20I%20am%20writing%20to%20you%20from%20the%20email%20link%20of%20your%20portfolio.%20I%20am%20.....)
