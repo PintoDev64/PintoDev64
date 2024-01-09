@@ -1,6 +1,6 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
 
-# <h1 align="center"> <code>[<img src="https://pbs.twimg.com/media/Dsw0HsjWwAA-8fE.jpg" height="110px">](https://portfolio-web-rho-ten.vercel.app/home)⠀Hi there⠀|⠀⠀👋⠀⠀| [<img src="https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=falsespo" background="#fff" height="110px">](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)</code> </h1>
+# <h1 align="center"> <code>[<img src="https://pbs.twimg.com/media/Dsw0HsjWwAA-8fE.jpg" height="110px">](https://portfolio-web-rho-ten.vercel.app/home)⠀Hi there⠀|⠀⠀👋⠀⠀| [<img src="https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false" background="#fff" height="110px">](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)</code> </h1>
 
 #### Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer for friends, and I'm a junior programmer who supports open source.
 
