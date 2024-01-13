@@ -21,7 +21,7 @@
 
 
 # > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
-| JavaScript | Css | Html | ReactJs | ExpressJs | MySQL | NodeJs | ElectronJs | Git | Npm | Java | SpringBoot |
+| JavaScript | Css | Html | React | Express | MySQL | NodeJs | Electron | Git | Npm | Java | SpringBoot |
 |--|--|--|--|--|--|--|--|--|--|--|--|
 
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
