@@ -27,7 +27,7 @@
 | ----- | ----- |
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PintoGamer64&theme=react-dark&hide_title=true&radius=10&area=true)](https://github.com/PintoGamer64)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PintoGamer64&theme=react-dark&hide_title=true&radius=10&area=true)](https://github.com/PintoGamer64)
 
 > [!TIP]
 > ## Provided by <code>[Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code>  &  <code>[Spotify Profile](https://github.com/kittinan/spotify-github-profile)</code> & <code>[Activity Gragh](https://github.com/Ashutosh00710/github-readme-activity-graph)</code>
