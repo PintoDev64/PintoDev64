@@ -4,22 +4,13 @@
 
 #### Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer for friends, and I'm a junior programmer who supports open source.
 
-[Contact](mailto:cardozojoan13@gmail.com)
-<br>
-
-> [!NOTE]
-> * I studying at UNIMINUTO - Systems Engineer
-
-<br>
-
-
 | ![Stats](https://github-readme-stats.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&line_height=20&hide_title=true) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=PintoGamer64&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
 | ----- | ----- |
 
 
 # > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
-| JavaScript | Css | Html | React | Express | MySQL | NodeJs | Electron | Git | Npm | Java | SpringBoot |
-|--|--|--|--|--|--|--|--|--|--|--|--|
+| JavaScript | Css | Html | React | Express | MySQL | NodeJs | Electron | Git | Npm |
+|--|--|--|--|--|--|--|--|--|--|
 
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
