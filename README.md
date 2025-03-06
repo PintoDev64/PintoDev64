@@ -9,7 +9,7 @@
 
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
-| ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=PintoDev64&show_owner=true&repo=JavaScriptNovel&theme=radical&hide_border=true) | ![PngtubeStudioProject](https://github-readme-stats.vercel.app/api/pin/?username=PintoDev64&show_owner=true&repo=PngtubeStudioProject&theme=radical&hide_border=true) |
+| ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=PintoDev64&show_owner=true&repo=JavaScriptNovel&theme=radical&hide_border=true) | ![PngtubeStudioProject](https://github-readme-stats.vercel.app/api/pin/?username=PintoDev64&show_owner=true&repo=SteamClonAI&theme=radical&hide_border=true) |
 | ----- | ----- |
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
