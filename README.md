@@ -4,6 +4,8 @@
 
 #### Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer for friends, and I'm a junior programmer who supports open source.
 
+> Contributing to the Spanish translation of [ElectronJs](https://www.electronjs.org/es/) - ([Crowdin Profile](https://crowdin.com/profile/pintogamer64))
+
 | ![Stats](https://github-readme-stats.vercel.app/api?username=PintoDev64&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&line_height=20&hide_title=true) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=PintoGamer64&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
 | ----- | ----- |
 
