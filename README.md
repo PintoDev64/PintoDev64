@@ -2,7 +2,7 @@
 
 # <h1 align="center"><code><img src="https://pbs.twimg.com/media/GeQ3G4cbIAIFfy1?format=jpg&name=large" height="110px">⠀Hi there⠀|⠀⠀👋⠀⠀| [<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false" background="#fff" height="110px">](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)</code></h1>
 
-#### Hello, my name is Joan Sebastian Cardozo Salinas or PintoGamer for friends, and I'm a junior programmer who supports open source.
+#### Hello, my name is Joan Sebastian Cardozo Salinas or Mike for friends, and I'm a Frontend Developer who supports open source.
 
 > Contributing to the Spanish translation of [ElectronJs](https://www.electronjs.org/es/) - ([Crowdin Profile](https://crowdin.com/profile/pintogamer64))
 
